@@ -53,7 +53,7 @@ Agriculture, FoodTech & Rural Development
 <ul><li>Technologies: Python, TensorFlow, Keras, OpenCV, and React Native for mobile app development.
  Methodology: Data collection from various sources, data preprocessing, model training, and deployment.
 it is build with programming language so it does not have ang malfunction
- <b>![alt text](gopinathjieufgu-1.png)</b></li></ul>
+ <b>![alt text](image-1.png)</b></li></ul>
 
 ## Feasibility and Viability
 <h3>FEASIBILITY and VIABILITY.</h3>
