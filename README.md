@@ -52,7 +52,7 @@ Agriculture, FoodTech & Rural Development
 ## Feasibility and Viability
 ## FEASIBILITY and VIABILITY.
 • Analysis: The solution is feasible with existing technologies and can be implemented in phases.
-•Potential challenges: Data quality, user adoption, and scalability.
+• Potential challenges: Data quality, user adoption, and scalability.
 • Strategies: Collaborate with government agencies, NGOs, and agri-tech startups to ensure data quality and user adoption.
 ##  Impact and Benefits
 ## IMPACT AND BENEFITS
