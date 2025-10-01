@@ -41,23 +41,23 @@ Agriculture, FoodTech & Rural Development
 
 ## Farmer app
 
-The proposed solution is to develop a smart advisory system that provides personalized, real-time advice to small and marginal farmers.
-his system will use AI, machine learning, and data analytics to provide location-specific crop advisory, soil health recommendations, and weather-based alerts.
-it accept and speak all language so it easy to understand
+• The proposed solution is to develop a smart advisory system that provides personalized, real-time advice to small and marginal farmers.
+• his system will use AI, machine learning, and data analytics to provide location-specific crop advisory, soil health recommendations, and weather-based alerts.
+• it accept and speak all language so it easy to understand
 ## Technical Approach
 
 ## TECHINICAL APPROACH
 
-Technologies: Python, TensorFlow, Keras, OpenCV, and React Native for mobile app development. Methodology: Data collection from various sources, data preprocessing, model training, and deployment. it is build with programming language so it does not have ang malfunction ![alt text](image-1.png)
+• Technologies: Python, TensorFlow, Keras, OpenCV, and React Native for mobile app development. Methodology: Data collection from various sources, data preprocessing, model training, and deployment. it is build with programming language so it does not have ang malfunction ![alt text](image-1.png)
 ## Feasibility and Viability
 ## FEASIBILITY and VIABILITY.
-Analysis: The solution is feasible with existing technologies and can be implemented in phases.
-Potential challenges: Data quality, user adoption, and scalability.
-Strategies: Collaborate with government agencies, NGOs, and agri-tech startups to ensure data quality and user adoption.
+• Analysis: The solution is feasible with existing technologies and can be implemented in phases.
+•Potential challenges: Data quality, user adoption, and scalability.
+• Strategies: Collaborate with government agencies, NGOs, and agri-tech startups to ensure data quality and user adoption.
 ##  Impact and Benefits
 ## IMPACT AND BENEFITS
-Potential impact: Increased productivity, reduced costs, and improved livelihoods for small and marginal farmers.
-Benefits: Social (improved livelihoods), economic (increased productivity and reduced costs), and environmental (sustainable farming practices).
+• Potential impact: Increased productivity, reduced costs, and improved livelihoods for small and marginal farmers.
+• Benefits: Social (improved livelihoods), economic (increased productivity and reduced costs), and environmental (sustainable farming practices).
 ## Research and References
 ## RESEARCH AND REFERENCES
-NABARD Report (2022): 86% of Indian farmers are small or marginal. - Studies: ICT-based advisories can increase crop yield by 20-30%.
+• NABARD Report (2022): 86% of Indian farmers are small or marginal. - Studies: ICT-based advisories can increase crop yield by 20-30%.
